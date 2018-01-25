@@ -1,0 +1,2 @@
+# Scala
+small scala excercises
